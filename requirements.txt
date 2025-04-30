@@ -1,0 +1,15 @@
+langchain==0.1.0
+langchain-google-genai==0.0.7
+google-generativeai==0.3.2
+streamlit==1.31.0
+pandas==2.2.0
+chromadb==0.4.22
+reportlab==4.1.0
+python-docx==1.1.0
+PyPDF2==3.0.1
+nltk==3.8.1
+ipython==8.21.0
+markdown==3.5.2
+python-dotenv==1.0.0
+langchain-core==0.1.10
+langchain-community==0.0.13 
