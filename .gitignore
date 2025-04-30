@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Streamlit cache
+.streamlit/
+
+# VS Code settings (if you use VS Code)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
