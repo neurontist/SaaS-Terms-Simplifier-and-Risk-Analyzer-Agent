@@ -14,7 +14,7 @@ A GenAI-powered legal assistant that translates complex SaaS Terms & Conditions 
 
 ---
 
-## 📸 Demo Video
+## 📸 Demo Video (Click to view)
 
 [![Watch the demo](assets/SaaS_Terms_Agent_Thumbnail.png)](https://drive.google.com/file/d/1CEU3m9cmhDL4H57KUOp-8L7c6ATVqsAs/view?usp=sharing)
 
