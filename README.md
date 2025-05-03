@@ -78,6 +78,19 @@ saas-term-analyzer/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 🚀 Future Improvements & Roadmap
+
+* **Severity Scoring Integration**: Feed red flag content and executive summaries into the chatbot or a separate severity-assessment agent to classify issues by risk level (e.g., low, medium, high).
+* **Contextual Red Flag Insights**: Enhance red flag explanations by providing legal context, precedents, or simplified examples to aid non-technical users.
+* **Dynamic Summarization Modes**: Add options to toggle between different summary styles — concise, detailed, or legal-to-plain-English translations.
+* **Multilingual Support**: Extend summarization and red flag detection capabilities to handle SaaS terms written in other languages.
+* **Feedback Loop & Fine-Tuning**: Implement user feedback capture for summaries and risk flags to fine-tune Gemini responses over time.
+* **Severity Visualizations**: Integrate simple data visualizations (e.g., pie charts, bar graphs) showing red flag types and their severity distribution.
+* **Document Comparison Feature**: Allow users to upload and compare two SaaS agreements side-by-side to identify clause differences or risk deltas.
+* **User Authentication & History**: Add login functionality and enable users to view/download previous analyses securely.
+* **API Integration**: Package the backend as a REST API or LangServe-powered endpoint to enable external SaaS platforms to embed the agent.
+* **Model Evaluation Benchmarks**: Introduce structured evaluation of summarization and red flag accuracy using gold-standard datasets or LLM-as-a-judge scoring.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
